@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 7d7f543ed8e0599468bf79ba225ea3a9
+timeCreated: 1506983648
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Arm_Chair
+    100002: Arm_Chair.001
+    100004: Backgammon Game
+    100006: Book
+    100008: Book.001
+    100010: Book.002
+    100012: Book.003
+    100014: Book.004
+    100016: Book.005
+    100018: Book.006
+    100020: Book.007
+    100022: Book.008
+    100024: Book.009
+    100026: Book.010
+    100028: Book.011
+    100030: Book.012
+    100032: Book.013
+    100034: Book.014
+    100036: Camera
+    100038: Chess_Board
+    100040: Corner_Cabinet
+    100042: Couch
+    100044: Curtain_Holder
+    100046: Curtains
+    100048: Desk
+    100050: Desk_Chair
+    100052: Desk_Chair.001
+    100054: Desk_Chair.002
+    100056: Desk_Chair.003
+    100058: Directional Light
+    100060: Door_Frame
+    100062: Door_Mesh
+    100064: Floor_Lamp
+    100066: IQ_Game
+    100068: Pawn
+    100070: Pawn.001
+    100072: Pawn.002
+    100074: Pawn.003
+    100076: Pawn.004
+    100078: Puzzle_Game
+    100080: Queen
+    100082: Rock
+    100084: Room
+    100086: Rubik_Cube
+    100088: Table
+    100090: //RootNode
+    100092: Wall_Cabinet
+    100094: Window
+    400000: Arm_Chair
+    400002: Arm_Chair.001
+    400004: Backgammon Game
+    400006: Book
+    400008: Book.001
+    400010: Book.002
+    400012: Book.003
+    400014: Book.004
+    400016: Book.005
+    400018: Book.006
+    400020: Book.007
+    400022: Book.008
+    400024: Book.009
+    400026: Book.010
+    400028: Book.011
+    400030: Book.012
+    400032: Book.013
+    400034: Book.014
+    400036: Camera
+    400038: Chess_Board
+    400040: Corner_Cabinet
+    400042: Couch
+    400044: Curtain_Holder
+    400046: Curtains
+    400048: Desk
+    400050: Desk_Chair
+    400052: Desk_Chair.001
+    400054: Desk_Chair.002
+    400056: Desk_Chair.003
+    400058: Directional Light
+    400060: Door_Frame
+    400062: Door_Mesh
+    400064: Floor_Lamp
+    400066: IQ_Game
+    400068: Pawn
+    400070: Pawn.001
+    400072: Pawn.002
+    400074: Pawn.003
+    400076: Pawn.004
+    400078: Puzzle_Game
+    400080: Queen
+    400082: Rock
+    400084: Room
+    400086: Rubik_Cube
+    400088: Table
+    400090: //RootNode
+    400092: Wall_Cabinet
+    400094: Window
+    2000000: Camera
+    2300000: Arm_Chair
+    2300002: Arm_Chair.001
+    2300004: Backgammon Game
+    2300006: Book
+    2300008: Book.001
+    2300010: Book.002
+    2300012: Book.003
+    2300014: Book.004
+    2300016: Book.005
+    2300018: Book.006
+    2300020: Book.007
+    2300022: Book.008
+    2300024: Book.009
+    2300026: Book.010
+    2300028: Book.011
+    2300030: Book.012
+    2300032: Book.013
+    2300034: Book.014
+    2300036: Chess_Board
+    2300038: Corner_Cabinet
+    2300040: Couch
+    2300042: Curtain_Holder
+    2300044: Curtains
+    2300046: Desk
+    2300048: Desk_Chair
+    2300050: Desk_Chair.001
+    2300052: Desk_Chair.002
+    2300054: Desk_Chair.003
+    2300056: Door_Frame
+    2300058: Door_Mesh
+    2300060: Floor_Lamp
+    2300062: IQ_Game
+    2300064: Pawn
+    2300066: Pawn.001
+    2300068: Pawn.002
+    2300070: Pawn.003
+    2300072: Pawn.004
+    2300074: Puzzle_Game
+    2300076: Queen
+    2300078: Rock
+    2300080: Room
+    2300082: Rubik_Cube
+    2300084: Table
+    2300086: Wall_Cabinet
+    2300088: Window
+    3300000: Arm_Chair
+    3300002: Arm_Chair.001
+    3300004: Backgammon Game
+    3300006: Book
+    3300008: Book.001
+    3300010: Book.002
+    3300012: Book.003
+    3300014: Book.004
+    3300016: Book.005
+    3300018: Book.006
+    3300020: Book.007
+    3300022: Book.008
+    3300024: Book.009
+    3300026: Book.010
+    3300028: Book.011
+    3300030: Book.012
+    3300032: Book.013
+    3300034: Book.014
+    3300036: Chess_Board
+    3300038: Corner_Cabinet
+    3300040: Couch
+    3300042: Curtain_Holder
+    3300044: Curtains
+    3300046: Desk
+    3300048: Desk_Chair
+    3300050: Desk_Chair.001
+    3300052: Desk_Chair.002
+    3300054: Desk_Chair.003
+    3300056: Door_Frame
+    3300058: Door_Mesh
+    3300060: Floor_Lamp
+    3300062: IQ_Game
+    3300064: Pawn
+    3300066: Pawn.001
+    3300068: Pawn.002
+    3300070: Pawn.003
+    3300072: Pawn.004
+    3300074: Puzzle_Game
+    3300076: Queen
+    3300078: Rock
+    3300080: Room
+    3300082: Rubik_Cube
+    3300084: Table
+    3300086: Wall_Cabinet
+    3300088: Window
+    4300000: Desk_Chair.003
+    4300002: Desk_Chair.002
+    4300004: Desk_Chair.001
+    4300006: Arm_Chair.001
+    4300008: Book.014
+    4300010: Book.013
+    4300012: Book.012
+    4300014: Pawn
+    4300016: Pawn.004
+    4300018: Pawn.003
+    4300020: Pawn.002
+    4300022: Book.011
+    4300024: Book.010
+    4300026: Book.009
+    4300028: Book.008
+    4300030: Book.007
+    4300032: Book.006
+    4300034: Book.005
+    4300036: Book.004
+    4300038: Book.003
+    4300040: Book.001
+    4300042: Book
+    4300044: Book.002
+    4300046: Rock
+    4300048: Pawn.001
+    4300050: Backgammon Game
+    4300052: Rubik_Cube
+    4300054: Queen
+    4300056: Puzzle_Game
+    4300058: IQ_Game
+    4300060: Chess_Board
+    4300062: Curtain_Holder
+    4300064: Table
+    4300066: Curtains
+    4300068: Desk
+    4300070: Floor_Lamp
+    4300072: Corner_Cabinet
+    4300074: Door_Mesh
+    4300076: Couch
+    4300078: Window
+    4300080: Desk_Chair
+    4300082: Door_Frame
+    4300084: Arm_Chair
+    4300086: Room
+    4300088: Wall_Cabinet
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Directional Light
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
